@@ -1,0 +1,13 @@
+C:\Lab\c-sharp\estrutura\bin\Debug\netcoreapp3.1\estrutura.exe
+C:\Lab\c-sharp\estrutura\bin\Debug\netcoreapp3.1\estrutura.deps.json
+C:\Lab\c-sharp\estrutura\bin\Debug\netcoreapp3.1\estrutura.runtimeconfig.json
+C:\Lab\c-sharp\estrutura\bin\Debug\netcoreapp3.1\estrutura.runtimeconfig.dev.json
+C:\Lab\c-sharp\estrutura\bin\Debug\netcoreapp3.1\estrutura.dll
+C:\Lab\c-sharp\estrutura\bin\Debug\netcoreapp3.1\estrutura.pdb
+C:\Lab\c-sharp\estrutura\obj\Debug\netcoreapp3.1\estrutura.csprojAssemblyReference.cache
+C:\Lab\c-sharp\estrutura\obj\Debug\netcoreapp3.1\estrutura.AssemblyInfoInputs.cache
+C:\Lab\c-sharp\estrutura\obj\Debug\netcoreapp3.1\estrutura.AssemblyInfo.cs
+C:\Lab\c-sharp\estrutura\obj\Debug\netcoreapp3.1\estrutura.csproj.CoreCompileInputs.cache
+C:\Lab\c-sharp\estrutura\obj\Debug\netcoreapp3.1\estrutura.dll
+C:\Lab\c-sharp\estrutura\obj\Debug\netcoreapp3.1\estrutura.pdb
+C:\Lab\c-sharp\estrutura\obj\Debug\netcoreapp3.1\estrutura.genruntimeconfig.cache
