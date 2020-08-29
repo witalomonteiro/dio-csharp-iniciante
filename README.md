@@ -1,5 +1,4 @@
-# Digital Inovation One
-## Primeiros passos com .NET + C#
+# Digital Inovation One | Primeiros passos com .NET + C#
 
 ### 01 - O que é .NET?
 - Conhecendo o framework
