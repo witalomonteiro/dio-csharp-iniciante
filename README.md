@@ -26,3 +26,12 @@
 ### 6 - Trabalhando com structs, interfaces e enums
 - O são Structs
 - Entendendo a função de interfaces e enums
+
+### 7 - Uma síntese do que é .NET
+- Revisão introdutória
+- Praticando primeiros passos
+- Dinâmica de desenvolvimento
+- Considerações finais
+
+## Overview
+### Com os conhecimentos adiquiridos nesse curso, consegui desenvolver o backend, sem telas, de uma pequena aplicação em console de controle de alunos.

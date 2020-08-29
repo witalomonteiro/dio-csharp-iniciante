@@ -1,0 +1,13 @@
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Lab\c-sharp\dio-csharp-iniciante\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
