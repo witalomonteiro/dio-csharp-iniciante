@@ -1,4 +1,4 @@
-# Digital Inovation One | Primeiros passos com .NET + C#
+# Digital Innovation One | Primeiros passos com .NET + C#
 
 ## Conteúdo do Curso
 ### 01 - O que é .NET?
