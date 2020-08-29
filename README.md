@@ -34,4 +34,4 @@
 - Considerações finais
 
 ## Overview
-#### Com os conhecimentos adiquiridos nesse curso, consegui desenvolver o backend, sem telas, de uma pequena aplicação em console de controle de alunos.
+#### A partir dos conhecimentos adiquiridos neste curso, consegui desenvolver o backend, ainda sem telas, de uma pequena aplicação em console de controle de alunos. As principais funções são de cadastrar, listar e calcular a media geral da turma e classifica-la entre as categorias: A, B ou C.
